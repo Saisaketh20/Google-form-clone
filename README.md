@@ -1,11 +1,19 @@
 Google Forms Clone With React & Firebase
+
+
 Technologi Used
-React
+React 
+
 Firebase
+
 TailwindCSS
+
 Heroicons
+
 Framer Motion
 Installation
+
+
 If you've cloned this repository, open in terminal and typing in your terminal with command :
 
 npm install
