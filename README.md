@@ -1,7 +1,8 @@
 Google Forms Clone With React & Firebase
 
 
-Technologi Used
+Technologi Used:
+
 React 
 
 Firebase
@@ -11,6 +12,7 @@ TailwindCSS
 Heroicons
 
 Framer Motion
+
 Installation
 
 
